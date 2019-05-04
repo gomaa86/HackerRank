@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{F73B6FC9-C5F6-43B8-ABF0-52650CE6C998}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleandOrange", "AppleandOrange\AppleandOrange.csproj", "{67EB1599-D58E-443E-908D-12D0C9934959}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F73B6FC9-C5F6-43B8-ABF0-52650CE6C998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73B6FC9-C5F6-43B8-ABF0-52650CE6C998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F73B6FC9-C5F6-43B8-ABF0-52650CE6C998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EB1599-D58E-443E-908D-12D0C9934959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EB1599-D58E-443E-908D-12D0C9934959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EB1599-D58E-443E-908D-12D0C9934959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EB1599-D58E-443E-908D-12D0C9934959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
